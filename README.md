@@ -8,6 +8,7 @@ ng serve
 
 
 ## Quality of the code
+
 [![DeepScan grade](https://deepscan.io/api/teams/21477/projects/24891/branches/770691/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=21477&pid=24891&bid=770691)
 
 

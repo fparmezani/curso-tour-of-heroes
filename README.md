@@ -5,7 +5,7 @@ git clone https://github.com/fparmezani/curso-tour-of-heroes.git
 cd curso-tour-of-heroes-frontend
 npm install
 ng serve
-
+```
 
 ## Quality of the code
 
